@@ -1,21 +1,32 @@
-# Finflow
+# Big-Rupee 💸📈
 
-Student-focused financial management app with AI-powered insights. The app helps users track income and expenses, manage budgets, and get friendly, ethical guidance powered by Gemini.
+**Financial Tracking & Budgeting Application**
 
-## Features
-- Profile setup for student status, income, currency, and savings goal
-- Expense and income tracking with categories
-- Budget planning with category limits and alerts
-- Recurring transactions and rollover budgets
-- PDF reports and shareable summaries
-- Cloud sync (Google sign-in) and local-first storage
-- AI insights with consent-first workflow
-- Mobile-first UI with charts and clear summaries
+Big-Rupee is an intuitive financial tracking application designed specifically to help students, young professionals, and anyone looking to improve their saving and budgeting habits.
 
-## Run the Flutter app
+---
 
-flutter pub get
-flutter run
+## 🚀 Features
 
-## Backend
-See [backend/README.md](backend/README.md) for the FastAPI service that powers Gemini insights and REST endpoints.
+*   **Expense Tracking**: Easily log and categorize daily expenses with a streamlined interface.
+*   **Budget Planning**: Set monthly budgets for different categories and receive visual alerts as you approach limits.
+*   **Savings Goals**: Define financial milestones and track your progress over time.
+*   **Data Visualization**: Clear, interactive charts and graphs to help you understand your spending patterns at a glance.
+
+---
+
+## 🛠️ Tech Stack
+
+*   **Framework**: Flutter
+*   **Language**: Dart
+*   **Storage**: SQLite / Local Database integration for secure, on-device data management
+
+---
+
+## 🎯 Motivation
+
+Financial literacy is a critical skill. Big-Rupee aims to gamify and simplify the process of tracking money, making it accessible and engaging for users who want to take control of their financial future.
+
+---
+
+*Built with ❤️ by Sagarverse.*
